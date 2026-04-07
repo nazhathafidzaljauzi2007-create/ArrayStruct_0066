@@ -3,7 +3,7 @@ using namespace std;
 
 struct DetailAlamat {
     string desa;
-    string kota; 
+    string kota;  
 };
 
 struct orang {
@@ -16,7 +16,7 @@ int main() {
     // Deklarasi obyek dari struct orang
     orang mhs;
 
-    // Isi objek
+    // Isi objek 
     cout << "Nama Mahasiswa: ";
     cin >> mhs.nama;
     cout << "Alamat Desa: ";
