@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     //Deklrasi Array dengan inisialisasi
     int dataku[5] = {10,20,30,40,50};
-    
+     
     //dekalrai tanpa inisialisasi
     int datamu[5];
     int x;
